@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulAnsh
-- 👀 I’m interested in learning computers. 
+- 👀 I’m interested in learning softwares. 
 - 🌱 I’m currently learning cloiud computing, secuirty on cyberattacks.
-- 💞️ I’m looking to collaborate on 
 - 📫 Contact me at paulansh8@gmail.com
 
 <!---

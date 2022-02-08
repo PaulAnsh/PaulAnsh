@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulAnsh
 - 👀 I’m interested in learning softwares. 
-- 🌱 I’m currently learning cloud computing, secuirty on cyberattacks.
+- 🌱 I’m currently learning cloud computing, Firewall.
 - 📫 Contact me at paulansh8@gmail.com
 
 <!---

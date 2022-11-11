@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PaulAnsh
-- 👀 I’m interested in learning softwares. 
-- 🌱 I’m currently learning cloud computing and python.
+- 🌱 I’m currently learning Cloud computing.
 - 📫 Contact me at paulansh8@gmail.com
 
 <!---

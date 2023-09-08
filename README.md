@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulAnsh
-- 🌱 I’m currently learning Cloud computing.
+- 🌱 I’m a Software Developer at Bell, focused on Cloud Computing. 
 - 📫 Contact me at paulansh8@gmail.com
 - potfolio https://anshpaul.me/
 
